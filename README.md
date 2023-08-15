@@ -1,3 +1,7 @@
+
+resourse using
+https://docs.flutter.dev/packages-and-plugins/developing-packages
+
 <!--
 This README describes the package. If you publish this package to pub.dev,
 this README's contents appear on the landing page for your package.
