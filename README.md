@@ -1,6 +1,13 @@
 
-resourse using
+<!-- resourse using
 https://docs.flutter.dev/packages-and-plugins/developing-packages
+
+online publish
+https://www.youtube.com/watch?v=0O9h5ihBYpU
+
+local publsih 
+https://www.youtube.com/watch?v=zmT2MZubC5c -->
+
 
 <!--
 This README describes the package. If you publish this package to pub.dev,
